@@ -1,5 +1,5 @@
 # OpenGL-Work
-This is the work i've done  with openGL. 
+These are the works i've done  with openGL. 
 
 The first program is a cubebox made with openGL. 
   Diffrent texture is added to each face of the cube by changing the texture cordinates. 
